@@ -3,7 +3,7 @@
 
 int main(void)
 {
-    char a[5] = "0123", b[5] = "head";
+    char a[5] = "0123", b[5] = "abcd";
     char c[20];
     scanf("%s", c);
 
